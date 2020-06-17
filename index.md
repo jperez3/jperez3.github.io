@@ -8,3 +8,5 @@ layout: home
 ### Resources
 
 * [custom domain with github pages](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a)
+* [official docs](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
+* [Set up jekyll on github pages](https://ndench.github.io/jekyll/setup-jekyll-on-github-pages)
